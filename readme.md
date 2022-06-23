@@ -1,3 +1,3 @@
-[netlify link:](ghiblimovie-night-codeno.netlify.app)
+[netlify link](https://ghibli-movie-night-codeno.netlify.app)
 
 
