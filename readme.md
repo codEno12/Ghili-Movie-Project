@@ -1,5 +1,3 @@
-netlify link:
-
-ghiblimovie-night-codeno.netlify.app
+[netlify link:](ghiblimovie-night-codeno.netlify.app)
 
 
